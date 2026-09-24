@@ -23,7 +23,7 @@ The interactive [Tableau dashboard](https://public.tableau.com/shared/26D5ZS9ZF?
 
 | # | Question | Where answered |
 |---|----------|----------------|
-| Q1 | How does review score relate to delivery timing? | Python §10 + SQL Q1 |
+| Q1 | How does review score relate to delivery timing? | Python section 10 + SQL Q1 |
 | Q2 | Which city generates the most revenue? | SQL Q2 |
 | Q3 | Which product categories are in highest demand? | SQL Q3 |
 | Q4 | How do sellers compare on volume vs. satisfaction? | SQL Q4a / Q4b |
